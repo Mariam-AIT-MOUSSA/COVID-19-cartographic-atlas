@@ -1,6 +1,6 @@
 # COVID-19-cartographic-atlas
 
-This project was created using the #mapping module of the #arcpy package.
+This project was created using the #mapping module of the #arcpy package of pyhton.
 
 It aims to obtain the cartographic atlas of #COVID-19 in Africa between two dates.  
 
